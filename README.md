@@ -1,4 +1,17 @@
-This is a modified version of the LTE Cell Scanner supporting RTL-SDR/HackRF/BladeRF and able to extract Channel State Information (CSI) from the LTE signals. By Peco602 (giovanni1.pecoraro@protonmail.com).
+# LTE-Cell-Scanner-CSI
+
+## Introduction
+
+This is a modified version of the LTE Cell Scanner supporting RTL-SDR/HackRF/BladeRF and able to extract Channel State Information (CSI) from the LTE signals developed by Giovanni Pecoraro (giovanni1.pecoraro@protonmail.com).
+
+## Publications
+
+This is the list of the published papers by using this tool:
+
+- G. Pecoraro, E. Cianca, M. De Sanctis, S. Di Domenico, [LTE Signal Fingerprinting Device-Free Passive Localization in Changing Environments](https://journals.riverpublishers.com/index.php/JMM/article/view/947), Journal of Multimedia, 2020
+- G. Pecoraro, E. Cianca, S. Di Domenico, M. De Sanctis, [LTE Signal Fingerprinting Device-Free Passive Localization Robust to Environment Changes](https://ieeexplore.ieee.org/abstract/document/8686686), Global Wireless Summit (GWS), 2018, Best Paper Award 
+- G. Pecoraro, S. Di Domenico, E. Cianca, M. De Sanctis, [CSI-based fingerprinting for indoor localization using LTE Signals](https://link.springer.com/article/10.1186/s13634-018-0563-7), EURASIP Journal on Advances in Signal Processing, 2018
+- G. Pecoraro, S. Di Domenico, E. Cianca, M. De Sanctis, [LTE signal fingerprinting localization based on CSI](https://ieeexplore.ieee.org/abstract/document/8115803), IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 2017
 
 ------------------------------
 
